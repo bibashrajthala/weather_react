@@ -1,0 +1,17 @@
+.show__data {
+  opacity: 0;
+  padding: 3rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 3rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+.form {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
